@@ -6,9 +6,13 @@
 	
 <style>
 	body {
-		background-image: url("8313a8a8d15e459d3931d6e3ab9fdd23.jpg");
+		background-image: url("1481124739-removebg.png");
 		background-repeat: no-repeat;
 		background-size: cover;
+		background-color: rgb(255,255,255);
+	}
+	nav {
+		padding-top: 50px;
 	}
 	.container-fluid .navbar-brand {
 		font-weight: bolder;
@@ -16,30 +20,58 @@
 		cursor: default;
 	}
 	.collapse ul li+li{
-		margin-left: 20px;
+		margin-left: 50px;
 	}
 	.collapse {
 		position: absolute;
-		left: 40%;
+		left: 32%;
 		font-size: 25px;
-	}
-	.collape ul li a {
-		color: black;
 	}
 	.collapse .login {
 		position: absolute;
-		left: 750px;
+		left: 900px;
 	}
 	.collapse .login a {
 		border-radius: 20px;
 		padding: 8px 20px;
 		font-size: 18px;
 	}
-	
-
-
-	form .form-pass a {
+	.mid-con .heading {
 		position: absolute;
-		right: 10px;
+		left: 30%;
+		top: 12%;
+		font-size: 50px;
+		font-weight: bolder;
+		cursor: default;
+	}
+	.mid-con .heading p {
+		color: #764B36;
+	}
+	.mid-con .text {
+		color: #C4AA7D;
+		position: absolute;
+		font-size: 20px;
+		font-weight: bold;
+		left: 30%;
+		top: 35%;
+	}
+	.mid-con .text {
+		max-width: 550px;
+	}
+	footer ul li {
+		display: inline-flex;
+		list-style: none;
+	}
+	footer ul li a {
+		font-size: 30px;
+	}
+	footer ul li+li {
+		margin-left: 20px;
+	}
+	footer .social_icon {
+		position: absolute;
+		left: 40%;
+		bottom: 20px;
+		
 	}
 </style>
