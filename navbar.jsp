@@ -11,7 +11,10 @@
 					tabindex="-1" aria-disabled="true">About Us</a></li>
 
 				<li class="nav-item"><a class="nav-link active" href=""
-					tabindex="-1" aria-disabled="true">Books</a></li>
+					tabindex="-1" aria-disabled="true">Shop</a></li>
+					
+				<li class="nav-item"><a class="nav-link active" href=""
+					tabindex="-1" aria-disabled="true">Contact</a></li>
 			</ul>
 
 			<div class="login">
