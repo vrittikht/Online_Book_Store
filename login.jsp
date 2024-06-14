@@ -10,6 +10,8 @@
 
 </head>
 <body>
+	
+	<%@include file="Package/loginNavbar.jsp" %>
 
 	<div class="container-fluid p-4">
 		<div class="row">
